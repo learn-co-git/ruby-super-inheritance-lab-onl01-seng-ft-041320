@@ -7,7 +7,7 @@ puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch Th
 end 
 
 def raise_hand
-  10.times do puts "Pick me!"
+  10.times do puts "Pick me!" end 
 end 
 
 end
